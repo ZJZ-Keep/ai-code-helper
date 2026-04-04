@@ -9,6 +9,9 @@ import jakarta.annotation.Resource;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
+/**
+ * 多模态
+ */
 @Service
 @Slf4j
 public class AiCodeHelper {

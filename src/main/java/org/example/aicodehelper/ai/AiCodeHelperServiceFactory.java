@@ -11,6 +11,10 @@ import org.example.aicodehelper.tools.InterviewQuestionTool;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ *
+ * 创建AiCodeHelperService
+ */
 @Configuration
 public class AiCodeHelperServiceFactory {
     @Resource
